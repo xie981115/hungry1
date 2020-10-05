@@ -29,9 +29,13 @@ text-align: center;
 width: 100%;
 position: fixed;
 left: 0;
-bottom: 0;}
+bottom: 0;
+height: 50px;
+background: #ddd;}
 
 #footer ul li{flex: 1;
+margin-top: 5px;
+height: 40px;
 display: flex;
 flex-direction: column;}
 
