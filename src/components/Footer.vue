@@ -1,6 +1,6 @@
 <!--  -->
 <template>
-  <div id="footer">
+  <div id="footer" isshow="flag">
     <ul>
     <router-link tag="li" to="/food"><i class="el-icon-eleme"></i> <span>外卖</span> </router-link>
     <router-link tag="li" to="/delicious"><i class="el-icon-picture-outline-round"></i><span>真香</span></router-link>
@@ -14,7 +14,9 @@
 export default {
   components: {},
   data() {
-    return {};
+    return {
+      flag:true
+    };
   },
   computed: {},
   watch: {},

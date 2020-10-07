@@ -144,7 +144,7 @@
 
     <div class="outfood">
       <div class="inner">
-        <li>
+        <li @click="godetail">
           <img src="../../assets/pic6.gif" alt="" />
           <div class="right">
           <p class="one">方中山胡辣汤(万丰慧城店)</p>
@@ -237,18 +237,27 @@
       </div>
       <div class="blank"></div>
     </div>
+
+    <Footer></Footer>
   </div>
 </template>
 
 <script>
+import Footer from '../../components/Footer';
 export default {
-  components: {},
+  components: {Footer},
   data() {
     return {};
   },
   computed: {},
   watch: {},
-  methods: {},
+  methods: {
+    godetail(){
+      this.$router.push({
+        path:'/food/detail'
+      })
+    }
+  },
   created() {},
   mounted() {},
 };

@@ -128,6 +128,7 @@ export default {
 .all .outer .inner .top p {
   float: left;
   font-weight: 600;
+  text-indent: 8px;
 }
 
 .all .outer .inner .top span {

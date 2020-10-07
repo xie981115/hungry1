@@ -112,14 +112,16 @@ export default {
 .watch .pic {
   padding-left: 10px;
   width: 100%;
-  background: #cde3f0;
+  background: #eee;
   overflow: hidden;
 }
 .watch .tu {
   height: 320px;
   width: 48%;
   margin-right: 2%;
+  margin-bottom: 8px;
   float: left;
+  background: #fff;
 }
 
 .watch .tu .pinlun{

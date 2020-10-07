@@ -7,12 +7,14 @@
       <img src="../../assets/pic9.gif" alt="">
     </ul>
     <router-view></router-view>
+    <Footer></Footer>
   </div>
 </template>
 
 <script>
+import Footer from '../../components/Footer';
 export default {
-  components: {},
+  components: {Footer},
   data() {
     return {};
   },

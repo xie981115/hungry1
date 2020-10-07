@@ -1,14 +1,12 @@
 <!--  -->
 <template>
-<div class=''>我的
-<Footer></Footer>
-</div>
+<div class='ping'>评论</div>
 </template>
 
 <script>
-import Footer from '../../components/Footer';
+
 export default {
-components: {Footer},
+components: {},
 data() {
 return {
 

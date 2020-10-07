@@ -14,6 +14,28 @@ const router = new VueRouter({
                 import ('../views/food/index.vue')
         },
         {
+            path: '/food/detail',
+            component: () =>
+                import ('../views/food/detail/detail.vue'),
+            redirect: 'food/detail/product',
+            children: [{
+                    path: 'product',
+                    component: () =>
+                        import ('../views/food/detail/product/index.vue')
+                },
+                {
+                    path: 'ping',
+                    component: () =>
+                        import ('../views/food/detail/ping/index.vue')
+                },
+                {
+                    path: 'business',
+                    component: () =>
+                        import ('../views/food/detail/business/index.vue')
+                }
+            ]
+        },
+        {
             path: '/delicious',
             component: () =>
                 import ('../views/delicious/index.vue'),

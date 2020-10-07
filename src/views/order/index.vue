@@ -11,14 +11,15 @@
     <li class="last1">其他订单<i class="el-icon-caret-bottom"></i></li>
 </ul>
 <router-view></router-view>
+<Footer></Footer>
 </div>
 
 </template>
 
 <script>
-
+import Footer from '../../components/Footer';
 export default {
-components: {},
+components: {Footer},
 data() {
 return {
 
