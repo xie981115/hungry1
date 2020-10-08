@@ -230,18 +230,25 @@
       "unicode_decimal": 58632
     },
     {
+      "icon_id": "5012437",
+      "name": "加号",
+      "font_class": "jiahao",
+      "unicode": "e509",
+      "unicode_decimal": 58633
+    },
+    {
       "icon_id": "5342908",
       "name": "位置",
       "font_class": "weizhi",
-      "unicode": "e509",
-      "unicode_decimal": 58633
+      "unicode": "e50a",
+      "unicode_decimal": 58634
     },
     {
       "icon_id": "5982643",
       "name": "购物车-23",
       "font_class": "qicheqianlian-1-copy",
-      "unicode": "e50a",
-      "unicode_decimal": 58634
+      "unicode": "e50b",
+      "unicode_decimal": 58635
     },
     {
       "icon_id": "6119445",
@@ -261,15 +268,15 @@
       "icon_id": "6126861",
       "name": "天猫超市",
       "font_class": "tianmaochaoshi",
-      "unicode": "e50b",
-      "unicode_decimal": 58635
+      "unicode": "e50c",
+      "unicode_decimal": 58636
     },
     {
       "icon_id": "6271709",
       "name": "朋友",
       "font_class": "pengyou",
-      "unicode": "e50c",
-      "unicode_decimal": 58636
+      "unicode": "e50d",
+      "unicode_decimal": 58637
     },
     {
       "icon_id": "6757421",
@@ -282,8 +289,8 @@
       "icon_id": "7111185",
       "name": "加号",
       "font_class": "hao",
-      "unicode": "e50d",
-      "unicode_decimal": 58637
+      "unicode": "e50e",
+      "unicode_decimal": 58638
     },
     {
       "icon_id": "7611498",
@@ -317,8 +324,8 @@
       "icon_id": "8364525",
       "name": " 酒店",
       "font_class": "jiudian",
-      "unicode": "e50e",
-      "unicode_decimal": 58638
+      "unicode": "e50f",
+      "unicode_decimal": 58639
     },
     {
       "icon_id": "8404569",
@@ -349,6 +356,13 @@
       "unicode_decimal": 59160
     },
     {
+      "icon_id": "9900173",
+      "name": "减号 移入",
+      "font_class": "jianhaoyiru",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
       "icon_id": "10118067",
       "name": "圆圈",
       "font_class": "yuanquan",
@@ -359,8 +373,8 @@
       "icon_id": "10283066",
       "name": "上箭头",
       "font_class": "icon-shang",
-      "unicode": "e50f",
-      "unicode_decimal": 58639
+      "unicode": "e510",
+      "unicode_decimal": 58640
     },
     {
       "icon_id": "11015417",
@@ -373,8 +387,8 @@
       "icon_id": "11101247",
       "name": "尖角号",
       "font_class": "arrow_down",
-      "unicode": "e510",
-      "unicode_decimal": 58640
+      "unicode": "e511",
+      "unicode_decimal": 58641
     },
     {
       "icon_id": "11403984",
@@ -394,8 +408,8 @@
       "icon_id": "11894908",
       "name": "购物车-23",
       "font_class": "qicheqianlian-",
-      "unicode": "e511",
-      "unicode_decimal": 58641
+      "unicode": "e512",
+      "unicode_decimal": 58642
     },
     {
       "icon_id": "12107722",
@@ -408,15 +422,15 @@
       "icon_id": "12401788",
       "name": "白条",
       "font_class": "baitiao",
-      "unicode": "e512",
-      "unicode_decimal": 58642
+      "unicode": "e513",
+      "unicode_decimal": 58643
     },
     {
       "icon_id": "12453164",
       "name": "企业购入驻",
       "font_class": "qiyegouruzhu",
-      "unicode": "e513",
-      "unicode_decimal": 58643
+      "unicode": "e514",
+      "unicode_decimal": 58644
     },
     {
       "icon_id": "12679423",
@@ -433,11 +447,18 @@
       "unicode_decimal": 58926
     },
     {
+      "icon_id": "13350332",
+      "name": "减号",
+      "font_class": "jianhao-copy",
+      "unicode": "e516",
+      "unicode_decimal": 58646
+    },
+    {
       "icon_id": "13360927",
       "name": "天猫",
       "font_class": "tianmao1",
-      "unicode": "e514",
-      "unicode_decimal": 58644
+      "unicode": "e517",
+      "unicode_decimal": 58647
     },
     {
       "icon_id": "13374381",
@@ -478,15 +499,15 @@
       "icon_id": "14285990",
       "name": "火车票",
       "font_class": "huochepiao",
-      "unicode": "e516",
-      "unicode_decimal": 58646
+      "unicode": "e518",
+      "unicode_decimal": 58648
     },
     {
       "icon_id": "14293637",
       "name": "支付宝",
       "font_class": "zhifubao",
-      "unicode": "e517",
-      "unicode_decimal": 58647
+      "unicode": "e519",
+      "unicode_decimal": 58649
     },
     {
       "icon_id": "14323024",
